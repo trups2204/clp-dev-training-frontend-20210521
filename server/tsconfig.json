@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "noUnusedLocals": false,
+    "baseUrl": ".",
+    "outDir": "../dist",
+    "resolveJsonModule": true,
+  },
+  "include": [
+    "server.ts",
+    "module.d.ts",
+  ]
+}

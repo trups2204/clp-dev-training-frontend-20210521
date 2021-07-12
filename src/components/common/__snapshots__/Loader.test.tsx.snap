@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader test loads loader component 1`] = `
+<div
+  aria-atomic="true"
+  aria-busy="true"
+  aria-live="polite"
+  className="sc-eCApnc lnjSS"
+  data-test-id="loading"
+  role="alert"
+>
+  <svg
+    className="sc-jSFjdj brjlgd"
+  >
+    <circle
+      className="sc-gKAaRy jgrAZo"
+      cx="30"
+      cy="30"
+      r="20"
+    />
+  </svg>
+  <p
+    className="sc-iCoGMd boJwNj"
+  >
+    Please wait..Page is Loading
+  </p>
+</div>
+`;

@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`styles should render GalleryCaption 1`] = `
+<span
+  className="sc-dlnjwi eWwnEx"
+/>
+`;
+
+exports[`styles should render GalleryContainer 1`] = `
+<div
+  className="sc-bdnxRM iwaRrM"
+/>
+`;
+
+exports[`styles should render GalleryImage 1`] = `
+<img
+  className="sc-gtsrHT imHcTG"
+/>
+`;
+
+exports[`styles should render GalleryItem 1`] = `
+<div
+  className="sc-hKFxyN kXSnkB"
+/>
+`;
+
+exports[`styles should render ScreenReaderOnly 1`] = `
+<p
+  className="sc-iCoGMd boJwNj"
+/>
+`;
+
+exports[`styles should render SpinnerPanel 1`] = `
+<div
+  className="sc-eCApnc lnjSS"
+/>
+`;
+
+exports[`styles should render SpinnerSvg 1`] = `
+<svg
+  className="sc-jSFjdj brjlgd"
+/>
+`;
+
+exports[`styles should render SvgCircle 1`] = `
+<circle
+  className="sc-gKAaRy jgrAZo"
+/>
+`;
